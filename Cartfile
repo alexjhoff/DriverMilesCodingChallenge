@@ -1,0 +1,5 @@
+# Dependencies
+
+github "uber/rides-ios-sdk" ~> 0.9
+
+github "danielgindi/Charts" "v3.1.0"

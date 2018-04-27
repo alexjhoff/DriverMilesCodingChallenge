@@ -1,0 +1,22 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "v0.9.0",
+  "iOS" : [
+    {
+      "name" : "UberRides",
+      "hash" : "2884905cb47826ecb91d7c168a0eca5579886737c99f3c4ef53876211874d5bf"
+    },
+    {
+      "name" : "UberCore",
+      "hash" : "676b9d0f4cf2235814786ce752b23bc612e52db75b46d55875189927e26fb62b"
+    }
+  ]
+}
